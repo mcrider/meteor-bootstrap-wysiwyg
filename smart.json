@@ -1,0 +1,8 @@
+{
+    "name": "bootstrap-wysiwyg",
+    "description": "Bootstrap-based wysiwyg HTML editor",
+    "homepage": "https://github.com/mcrider/meteor-bootstrap-wysiwyg",
+    "author": "Matt Crider (http://matthewcrider.com)",
+    "version": "0.1.0",
+    "git": "https://github.com/mcrider/meteor-bootstrap-wysiwyg.git"
+}
